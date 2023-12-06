@@ -1,4 +1,5 @@
-![P-WAVER Logo](https://github.com/P-WAVER/.github/assets/44525760/f1d83d14-eb1c-4f97-a2f5-102005005c3c)
+<img alt="logo" src="https://github.com/P-WAVER/.github/assets/44525760/f1d83d14-eb1c-4f97-a2f5-102005005c3c" style="width: 250px; height: 250px;" />
+
 
 # P-WAVER | 衛波科技股份有限公司
 
